@@ -11,24 +11,17 @@ body {
     left: -30;
 }
 
-#sidebar li {
-    color: black;
-    font-size: 15px;
-    padding: 30px;
-    text-decoration: none;
-    text-align: left;
-}
 
 .toggle-btn {
     position: absolute;
-    left: 120px;
+    left: 30px;
     top: 15px;
 }
 
 .toggle-btn span {
     display: block;
     background-color: black;
-    width: 30px;
-    height: 5px;
-    margin: 3px;
+    width: 25px;
+    height: 1px;
+    margin: 6px;
 }
