@@ -62,6 +62,12 @@ body {
 
 .icon-filmadora {
     position: absolute;
-    left: 170vh;
+    left: 180vh;
     top: 25px;
+}
+
+.icon-lembrete {
+    position: absolute;
+    left: 190vh;
+    top: 28px;
 }
