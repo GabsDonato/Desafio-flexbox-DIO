@@ -71,3 +71,11 @@ body {
     left: 190vh;
     top: 28px;
 }
+
+.avatar-icon {
+    position: absolute;
+    left: 199vh;
+    top: 25px;
+    border-radius: 20px;
+}
+
