@@ -31,3 +31,27 @@ body {
     top: -46px;
     left: 15px;
 }
+
+.Menu-center {
+   display: flex;
+   justify-content: center;
+   padding: 5px;
+}
+
+.Barra-pesquisa {
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap:6px;
+}
+
+.Barra-pesquisa i {
+    cursor: pointer;
+}
+
+.Barra-pesquisa input {
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+}
+
