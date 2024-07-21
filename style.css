@@ -5,7 +5,7 @@ body {
 }
 
 #Menu-left {
-    position: fixed;
+    position: absolute;
     width: 30%;
     height: 100%;
     left: -30;
@@ -79,3 +79,8 @@ body {
     border-radius: 20px;
 }
 
+.container {
+    margin: 15px 0px 0px;
+    padding: 400px;
+    background-color: #f8f8f8;
+}
