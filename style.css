@@ -80,7 +80,16 @@ body {
 }
 
 .container {
+    position: absolute;
     margin: 15px 0px 0px;
     padding: 400px;
     background-color: #f8f8f8;
+}
+
+.watching-video {
+    position: absolute;
+    margin: 50px;
+    top: -30px;
+    left: 100px;
+    
 }
