@@ -94,11 +94,17 @@ body {
     left: 100px;
 }
 
- h1 {
-    font-size: 20px;
+.introdution-watching h1 {
+    position: absolute;
+    font-size: 18px;
     font-style: bold;
-    margin: 90px;
-    top: -25px;
-    left: 100px;
-    color: rgb(0, 0, 0);
+    margin: 150px;
+    top: 440px;
+    left: 10px;
+    color: black;
+}
+
+
+.video-actions {
+    position: absolute;
 }
