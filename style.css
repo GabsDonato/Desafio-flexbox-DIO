@@ -97,7 +97,7 @@ body {
 .introdution-watching h1 {
     position: absolute;
     font-size: 18px;
-    font-style: bold;
+    font-weight: bold;
     margin: 150px;
     top: 440px;
     left: 10px;
@@ -107,4 +107,21 @@ body {
 
 .video-actions {
     position: absolute;
+    margin: 55px;
+    padding: 500px;
+    left: -400px;
+    display: flex;
+    align-items: center;
 }
+
+.img-channel {
+    margin-right: 10px;
+}
+
+.video-actions span {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+    
