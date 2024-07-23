@@ -114,10 +114,6 @@ body {
     align-items: center;
 }
 
-.Channel-infos {
-    
-}
-
 .video-actions span {
     color: black;
     font-size: 14px;
@@ -136,6 +132,22 @@ h2 {
     margin-left: 55px;
     color: #515151;
 }
+
+.button {
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    display: block;
+    margin-left: 220px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin-top: -1.1cm;
+    
+}
+
+
 
 
 
