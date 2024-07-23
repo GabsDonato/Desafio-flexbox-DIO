@@ -114,8 +114,8 @@ body {
     align-items: center;
 }
 
-.img-channel {
-    margin-right: 10px;
+.Channel-infos {
+    
 }
 
 .video-actions span {
@@ -123,5 +123,22 @@ body {
     font-size: 14px;
     font-weight: bold;
 }
+
+
+h2 {
+    text-align: center;
+    margin-top: -50px;
+    width: 3.5cm;
+}
+
+.subtitulo {
+    margin-top: -18px;
+    margin-left: 55px;
+    
+}
+
+
+
+
 
     
