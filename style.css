@@ -146,8 +146,19 @@ h2 {
     margin-top: -1.1cm;
 }
 
+.img-like {
+    margin-left: 11.1cm;
+    display: flex;
+    margin-top: -35px;
+}
 
-
+.like-txt {
+    font-size: 14px;
+    text-align: center;
+    margin-top: -0.6cm;
+    margin-left: 12.1cm;
+    display: flex;
+}
 
 
 
