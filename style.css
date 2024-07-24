@@ -221,4 +221,13 @@ article p {
     top: 15.5cm;
     left: 10px;
 }
+
+.img-video1 {
+    display: flex;
+    position:absolute
+}
+
+.video1 {
+
+}
     
