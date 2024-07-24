@@ -147,7 +147,7 @@ h2 {
 }
 
 .img-like {
-    margin-left: 11.1cm;
+    margin-left: 10.2cm;
     display: flex;
     margin-top: -35px;
 }
@@ -156,16 +156,21 @@ h2 {
     font-size: 14px;
     text-align: center;
     margin-top: -0.6cm;
-    margin-left: 12.1cm;
+    margin-left: 11.2cm;
     display: flex;
 }
 
 .img-thumbs {
-
+     display: flex;
+     margin-left: 12.2cm;
+     margin-top: -25px;
 }
 
 .thumbs-down {
-    
+    font-size: 14px;
+    text-align: center;
+    margin-top: -0.6cm;
+    margin-left: 13.2cm;
 }
 
 
