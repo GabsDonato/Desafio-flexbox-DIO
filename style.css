@@ -139,7 +139,7 @@ h2 {
     font-size: 14px;
     font-weight: 500;
     display: block;
-    margin-left: 220px;
+    margin-left: 200px;
     width: 150px;
     height: 40px;
     border: none;
@@ -170,9 +170,38 @@ h2 {
     font-size: 14px;
     text-align: center;
     margin-top: -0.6cm;
-    margin-left: 13.2cm;
+    margin-left: 13cm;
+    display: flex;
 }
 
+.img-compartilhar {
+    display: flex;
+    margin-left: 15.2cm;
+    margin-top: -0.6cm;
+    
+}
+
+.icon-compartilhar {
+    font-size: 14px;
+    text-align: center;
+    margin-top: -0.6cm;
+    margin-left: 16cm;
+    display: flex;
+}
+
+.img-baixar {
+    display: flex;
+    margin-left: 18.5cm;
+    margin-top: -0.8cm;
+}
+
+.icon-baixar {
+    font-size: 14px;
+    text-align: end;
+    margin-top: -0.5cm;
+    margin-left: 19.3cm;
+    display: flex;
+}
 
 
 
