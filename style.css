@@ -212,4 +212,13 @@ article h1 {
     left: 10px;
     color: black;
 }
+
+article p {
+    color: #515151;
+    position: absolute;
+    font-size: 14px;
+    margin: 150px;
+    top: 15.5cm;
+    left: 10px;
+}
     
