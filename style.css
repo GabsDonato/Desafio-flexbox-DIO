@@ -222,12 +222,35 @@ article p {
     left: 10px;
 }
 
+
+.flexbox {
+    display: flexbox;
+    flex-direction: column;
+}
+
+
+
 .img-video1 {
+    position:absolute;
+    left: 153vh;
+    top: 2.8cm;
+}
+
+.h2-video1 {
+    font-size: 13px;
+    text-align: left;
+    margin-left: 180vh;
+    margin-top: 0.8cm;
+}
+
+aside p {
+    position: absolute;
+    font-size: 11px;
     display: flex;
-    position:absolute
-}
+    color: #515151;
+    text-align: left;
+    margin-left: 180vh;
+    margin-top: 0.1cm;
+}   
 
-.video1 {
-
-}
     
