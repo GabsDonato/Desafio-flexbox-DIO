@@ -1,2 +1,9 @@
 # Desafio-flexbox-DIO
-Clone do youtube usando flexbox
+
+Contribuição do projeto clone youtube feito plea DIO.
+
+
+
+## Authors
+
+- [@GabsDonato](https://www.github.com/GabsDonato)
